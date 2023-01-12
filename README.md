@@ -16,10 +16,10 @@ You can drop me a line at [javi@javilorbada.com](mailto:javi@javilorbada.com) or
 
 <p align="left">
   <a href="https://github.com/JaviLorbada">
-     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JaviLorbada&show_icons=true&hide_border=true&count_private=true" />
+     <img alt="Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaviLorbada&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/JaviLorbada/">
-     <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviLorbada&hide_border=true&layout=compact" />
+     <img alt="Most Used Language" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaviLorbada&hide_border=true&layout=compact" />
   </a>
 </p>
 
