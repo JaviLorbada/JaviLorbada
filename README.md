@@ -14,15 +14,6 @@ And if you want to support me on my photography journey you can always purchase 
 
 You can drop me a line at [javi@javilorbada.com](mailto:javi@javilorbada.com) or simply text me on Twitter [@javilorbada](https://twitter.com/javilorbada)
 
-<p align="left">
-  <a href="https://github.com/JaviLorbada">
-     <img alt="Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaviLorbada&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/JaviLorbada/">
-     <img alt="Most Used Language" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaviLorbada&hide_border=true&layout=compact" />
-  </a>
-</p>
-
 ### 🖥 Past work experience
 
 - Freelance iOS Engineer
