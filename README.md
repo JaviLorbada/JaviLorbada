@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-I am an Asturias, Spain-based iOS Software Developer, [adventure and travel photographer](https://www.javilorbada.com/about-me).
+I am an Asturias, Spain-based iOS Software Developer, [adventure and travel photographer](https://www.javilorbada.com).
 
 - 💻 Currently working at [@polarsteps](https://github.com/polarsteps/) iOS app, mostly introducing bugs and solving some others.
-- 📝 Writing a [monthly newsletter](https://www.getrevue.co/profile/javilorbada) about all the inspiring outdoor adventures out there and some occasional trips of myself these days.
+- 📝 I used to write a ~monthly newsletter~ about all the inspiring outdoor adventures out there and some occasional trips of myself these days, stopped doing so a while go
 - 🏞 Sharing the world from my eye at [adventures.javilorbada.com](https://adventures.javilorbada.com/)
 - 🖼 Side hustle selling prints at [shop.javilorbada.com](https://shop.javilorbada.com/) or [Etsy](https://www.etsy.com/shop/JaviLorbadaFineArt)
 - 📷 Follow my most recent work on Instagram at [@javilorbada](https://www.instagram.com/javilorbada/)
